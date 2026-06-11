@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Heavy ML models or downloaded weights
+models/
+huggingface_cache/
+.cache/
+
+# Video/Audio processing artifacts
+storage/
+*.mp4
+*.wav
+*.mp3
+
+# Environment variables / API keys
+.env
