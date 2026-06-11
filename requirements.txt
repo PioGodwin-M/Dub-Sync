@@ -1,0 +1,12 @@
+flask
+flask-cors
+werkzeug
+torch
+transformers==4.38.2
+openai-whisper
+gtts
+IndicTransToolkit
+sentencepiece
+accelerate
+protobuf
+gunicorn
